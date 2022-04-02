@@ -4,8 +4,10 @@ Here you can explore samples of my data analytics work.
 
 I consider myself a data detective. Nothing excites me more than analyzing a data crime scene and drawing meaningful conclusions to "find the culprits" and solve problems! Right now, I’m using data-driven recruitment software at Appcast to help employers hire better.
 
-```markdown
 ## Project Samples
+
+```markdown
+Links to GitHub project repositories
 
 - [Examining Wine Quality](https://github.com/vaishali-umr/wine-quality)
 - [Ames Housing Data Analysis](https://github.com/vaishali-umr/ames-housing)
