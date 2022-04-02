@@ -1,18 +1,18 @@
 # Welcome to my Data Science portfolio!
 
-Here you can explore samples of my data analytics work.
+I consider myself a data detective.
 
-I consider myself a data detective. Nothing excites me more than analyzing a data crime scene and drawing meaningful conclusions to "find the culprits" and solve problems! Right now, I’m using data-driven recruitment software at Appcast to help employers hire better.
+Nothing excites me more than analyzing a data crime scene and drawing meaningful conclusions to "find the culprits" and solve problems! Currently, I’m using data-driven recruitment software at Appcast to help employers hire better.
+
+Here you can explore samples of my data analytics work.
 
 ## Project Samples
 
-```markdown
-Links to GitHub project repositories
+Links to GitHub project repositories:
 
 - [Examining Wine Quality](https://github.com/vaishali-umr/wine-quality)
 - [Ames Housing Data Analysis](https://github.com/vaishali-umr/ames-housing)
 - [Predicting Employee Termination with HR Data](https://github.com/vaishali-umr/hr-data)
-```
 
 ## Markdown
 
