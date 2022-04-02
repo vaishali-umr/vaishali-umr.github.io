@@ -1,8 +1,6 @@
 ## Welcome to my Data Science portfolio!
 
-You can use the [editor on GitHub](https://github.com/vaishali-umr/vaishali-umr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you can explore samples of my data analytics work.
 
 ### Markdown
 
@@ -28,10 +26,12 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Let's Connect!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vaishali-umr/vaishali-umr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I consider myself a data detective. Nothing excites me more than analyzing a data crime scene and drawing meaningful conclusions to "find the culprits" and solve problems! Right now, I’m using data-driven recruitment software at Appcast to help employers hire better.
 
-### Support or Contact
+I live in the Chicago suburbs. Hit me up if you want to grab coffee or a drink.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can also reach me at vumrikar@yahoo.com or message me on LinkedIn.
+
+### Thanks for visiting
