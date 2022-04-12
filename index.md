@@ -10,9 +10,10 @@ Here you can explore samples of my data analytics work.
 
 Links to GitHub project repositories:
 
-- [Examining Wine Quality](https://github.com/vaishali-umr/wine-quality)
-- [Ames Housing Data Analysis](https://github.com/vaishali-umr/ames-housing)
 - [Predicting Employee Termination with HR Data](https://github.com/vaishali-umr/hr-data)
+- [How Vaccine Requirements Affect Job-Seeker Activity](https://github.com/vaishali-umr/vaccine-job-applies)
+- [Ames Housing Data Analysis](https://github.com/vaishali-umr/ames-housing)
+- [Examining Wine Quality](https://github.com/vaishali-umr/wine-quality)
 
 ## Let's Connect
 
